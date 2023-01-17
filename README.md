@@ -14,6 +14,8 @@
 <div display = "inline-block">
    <img height="50" alt="CSharp" title="CSharp" src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg'> 
  <img height="50" alt="Sql Server" title="SqlServer" src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg'>
+    <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img height="50" alt="Javascript" title="javascript" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
  </div>
 
