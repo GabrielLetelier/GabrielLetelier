@@ -1,15 +1,14 @@
 
-# Olá, Eu sou o Gabriel Letelier(Letelier)
+# Olá, Eu sou o Gabriel Letelier
 
 * 📌 Natural de Porto Alegre (RS) 
-* 🎓Cursando Análise e Desenvolvimento de Sistemas
-* 📚 Desenvolvedor de Software Jr.
- 
- ##
+
+
  <div align="center">
   <a href="https://github.com/GabrielLetelier" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api username=GabrielLetelier&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLetelier&layout=compact&langs_count=7&theme=github_dark"/>
  
- ##
  
  ### Techs
 <div display = "inline-block">
@@ -25,3 +24,5 @@
   <a href="https://www.instagram.com/letelier.89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
  </div>
+
+ 
