@@ -3,20 +3,13 @@
 
 * 📌 Natural de Porto Alegre (RS) 
 * 🎓Cursando Análise e Desenvolvimento de Sistemas
-* 📚 Dev Jr, iniciando na programação.
-
- <blockquote>
-  <p>
-  Os líderes do futuro são os que empoderam os outros.
- </p>
- -Bill Gates
- </blockquote>
+* 📚 Desenvolvedor de Software Jr.
  
  ##
  <div align="center">
   <a href="https://github.com/GabrielLetelier" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannigb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigb&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letelier89&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letelier89&layout=compact&langs_count=7&theme=github_dark"/>
 
  ##
  
